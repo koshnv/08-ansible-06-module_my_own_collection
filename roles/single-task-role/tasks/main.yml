@@ -1,0 +1,7 @@
+---
+# tasks file for single-task-role
+
+- name: Test my module
+  my_own_module:
+    path: "/root/my_own_collection/ansible/args.txt"
+    content: "Success!"

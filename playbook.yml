@@ -1,0 +1,4 @@
+- name: Create file
+  hosts: localhost
+  roles:
+    - single-task-role

@@ -1,16 +1,3 @@
-# Домашнее задание к занятию "08.06 Создание собственных modules" - dev-17_ansible-06-my_own_collection-yakovlev_vs
+# Ansible Collection - my_own_namespace
 
-## Подготовка к выполнению
-1. Создайте пустой публичный репозиторий в своём любом проекте: `my_own_collection`.
-2. Скачайте репозиторий Ansible: git clone `https://github.com/ansible/ansible.git` по любому, удобному вам пути 
-3. Зайдите в директорию ansible: `cd ansible`
-4. Создайте виртуальное окружение: `python3 -m venv venv`
-5. Активируйте виртуальное окружение: `. venv/bin/activate`. Дальнейшие действия производятся только в виртуальном окружении
-6. Установите зависимости `pip install -r requirements.txt`
-7. Запустить настройку окружения `. hacking/env-setup`
-8. Если все шаги прошли успешно - выйти из виртуального окружения `deactivate`
-9. Ваше окружение настроено. Чтобы запустить его, нужно находиться в директории `ansible` и выполнить конструкцию `. venv/bin/activate && . hacking/env-setup`
-
-#### Выполнено
-
-
+Documentation for the collection.
